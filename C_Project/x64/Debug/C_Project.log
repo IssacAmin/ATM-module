@@ -1,0 +1,4 @@
+﻿  server.c
+F:\Programming\Embedded Systems\C_Project\C_Project\server.c(199,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Programming\Embedded Systems\C_Project\C_Project\server.c(202,47): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  C_Project.vcxproj -> F:\Programming\Embedded Systems\C_Project\x64\Debug\C_Project.exe
